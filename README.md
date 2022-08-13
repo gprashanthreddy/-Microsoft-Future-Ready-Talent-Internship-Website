@@ -11,7 +11,7 @@ Industry : Lifestyle
 
 Project Title : Food Delivery Website
 
-Project link: 
+Project link: https://proud-field-013c0e810.1.azurestaticapps.net
 
 Problem Statement/Opportunity : This application is developed to provide best Food products services for the customers. I have developed Food Delivery system to provide a platform where a customer can find their Foods according to their choices. Builded a website that have: Home Page,Service page, Contact Us, About Us.
 
